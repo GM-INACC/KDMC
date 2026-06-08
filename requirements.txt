@@ -1,0 +1,10 @@
+# Direct runtime dependencies for the compact KDMC open-source artifact.
+# Python version: 3.10.18, matching the original KDMC conda environment.
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.9.1
+scikit-learn==1.1.2
+torch==2.0.1
+networkx==3.4.2
+openai==1.93.0
+python-dotenv==1.1.1
